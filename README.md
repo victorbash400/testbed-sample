@@ -9,3 +9,5 @@ python3 main.py
 ```
 
 The example reads `items.json` and prints a count of open and closed items.
+
+This repository also serves as a small push-event fixture for Testbed automation checks.
